@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": false,
       "cwd": "/home/vitonho/www/algoritimos-m2",
-      "program": "/home/vitonho/www/algoritimos-m2/build/Debug/outDebug",
+      "program": "//wsl.localhost/Ubuntu/home/vitonho/algoritimos-2/algoritimos-m2build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
